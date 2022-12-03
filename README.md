@@ -1,0 +1,3 @@
+- Interested in Full-Stack WebApp Development.
+- Currently learning ASP.NET MVC Framework.
+- Experienced in Object-Oriented Programming.
