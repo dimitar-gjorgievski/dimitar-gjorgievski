@@ -9,9 +9,9 @@
 <a href="https://www.linkedin.com/in/dimitar-gjorgievski/overlay/1635512031882/single-media-viewer/?profileId=ACoAADruJgsBJPl8c_6PWcW1KrZY6ASyNCSgPl8"/>
 <img src="https://img.shields.io/badge/Resume-%23B92B27.svg?&style=for-the-badge"/>
 
-
-### Languages and Tools
 ---
+### Languages and Tools
+<br />
 
 <img align="left" width="50px" style="padding-right-10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 <img align="left" width="50px" style="padding-right-10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
