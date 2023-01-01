@@ -6,9 +6,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <br />
 
-<a href="https://www.linkedin.com/in/dimitar-gjorgievski/overlay/1635512031882/single-media-viewer/?profileId=ACoAADruJgsBJPl8c_6PWcW1KrZY6ASyNCSgPl8"/>
-<img src="https://img.shields.io/badge/Resume-%23B92B27.svg?&style=for-the-badge"/>
-
 ---
 ### Languages and Tools
 <br />
